@@ -1,0 +1,35 @@
+label{
+	font-weight: 700;
+}
+
+input{
+	border: 1px solid #ccc;
+    background: #fafafa;
+    border-radius: 0;
+    color: #737373;
+    font: inherit;
+    font-size: 100%;
+    padding: 6px;
+}
+
+select{
+	border: 1px solid #ccc;
+    background: #fafafa;
+    border-radius: 0;
+    color: #737373;
+    font: inherit;
+    font-size: 100%;
+    padding: 6px;
+}
+
+option{
+	font-weight: normal;
+    display: block;
+    white-space: pre;
+    min-height: 1.2em;
+    padding: 0px 2px 1px;
+}
+
+#rare{
+    visibility: hidden;
+}
