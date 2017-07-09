@@ -1,6 +1,6 @@
 {
 	"comedy": {
-		"id": 1,
+		"id": 0,
 		"text": "Comedy",
 		"names": [{
 				"name": "a1"
@@ -23,7 +23,7 @@
 		]
 	},
 	"action": {
-		"id": 2,
+		"id": 1,
 		"text": "Action",
 		"names": [{
 				"name": "b1"
@@ -46,7 +46,7 @@
 		]
 	},
 	"romance": {
-		"id": 1,
+		"id": 2,
 		"text": "Romance",
 		"names": [{
 				"name": "c1"
@@ -69,7 +69,7 @@
 		]
 	},
 	"documentary": {
-		"id": 2,
+		"id": 3,
 		"text": "Documentary",
 		"names": [{
 				"name": "d1"
