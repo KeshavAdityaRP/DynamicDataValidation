@@ -1,0 +1,41 @@
+[
+    {
+        "id": 0,
+        "genre": "Action",
+        "title": "The Shawshank Redemption",
+        "language": "English",
+        "year": "23 Sep 1994",
+        "image": "http://www.yuppee.com/wp-content/uploads/2012/09/Shawshank-Redemption.jpeg",
+        "rating": [
+            {
+                "imdb": "9.3/10",
+                "rottentomatoes": "91%",
+                "boxoffice": "58 Million"
+            }
+        ],
+        "content": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont, and starring Tim Robbins and Morgan Freeman. Adapted from the Stephen King novella Rita Hayworth and Shawshank Redemption, the film tells the story of Andy Dufresne, a banker who is sentenced to life in Shawshank State Penitentiary for the murder of his wife and her lover, despite his claims of innocence. During his time at the prison, he befriends a fellow inmate, Ellis Boyd \"Red\" Redding, and finds himself protected by the guards after the warden begins using him in his money-laundering operation. While The Shawshank Redemption received positive reviews at release, it suffered from poor viewership and competition from other films such as Pulp Fiction at its initial release, and was a box office disappointment. The film received multiple award nominations (including seven Oscar nominations) and highly positive reviews from critics for its acting, story, and realism.",
+        "plot": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont, and starring Tim Robbins and Morgan Freeman. Adapted from the Stephen King novella Rita Hayworth and Shawshank Redemption, the film tells the story of Andy Dufresne, a banker who is sentenced to life in Shawshank State Penitentiary for the murder of his wife and her lover, despite his claims of innocence. The film received multiple award nominations (including seven Oscar nominations) and highly positive reviews from critics for its acting, story, and realism. Through Ted Turner's acquisition of Castle Rock Entertainment, the film started gaining more popularity in 1997 after it started near-daily airings on Turner's TNT network. In 2015, the United States Library of Congress selected the film for preservation in the National Film Registry, finding it culturally, historically, or aesthetically significant.In 1947 Portland, Maine, banker Andy Dufresne is convicted of murdering his wife and her lover, and is sentenced to two consecutive life sentences at the Shawshank State Penitentiary. He is befriended by Andy and Red, and Andy helps him pass his GED exam. In 1966, Tommy reveals to Red and Andy that an inmate at another prison claimed responsibility for the murders for which Andy was convicted. Andy approaches Norton with this information, but he refuses to listen and sends Andy back to solitary confinement when he mentions the money laundering. Andy declines to continue the laundering, but relents after Norton threatens to burn the library, remove Andy's protection from the guards, and move him to worse conditions.",
+        "cast": [
+            {
+                "name": "Frank Darabont",
+                "designation": "Director",
+                "image":"http://cdn4.thr.com/sites/default/files/2011/07/frank_darabont_2011_a_p.jpg"
+            },
+            {
+                "name": "Thomas Newman",
+                "designation": "Music director",
+                "image":"http://cps-static.rovicorp.com/3/JPG_400/MI0003/856/MI0003856249.jpg?partner=allrovi.com"                
+            },
+            {
+                "name": "Niki Marvin",
+                "designation": "Producer",
+                "image":"http://tepper.cmu.edu/facultyphotos/large/marvingd.jpg"                
+            },
+            {
+                "name": "Stephen King",
+                "designation": "Writer",
+                "image":"https://pbs.twimg.com/profile_images/378800000836981162/b683f7509ec792c3e481ead332940cdc.jpeg"                
+            }                        
+        ]
+    }
+]
