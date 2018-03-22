@@ -1,0 +1,63 @@
+{
+    "id" : [1,2,3,4,5,6,7,8,9,10],
+    "name" : [
+        "Express Avenue",
+        "Express Avenue",
+        "Express Avenue",
+        "Express Avenue",
+        "Express Avenue",
+        "Sky Walk",
+        "Sky Walk",
+        "Sky Walk",
+        "Orbit",
+        "Orbit"
+    ],
+    "lattitude" : [
+        "24.2599",
+        "24.2600",
+        "24.2601",
+        "24.2602",
+        "24.2603",
+        "23.2701",
+        "23.2701",
+        "23.2701",
+        "23.2501",
+        "23.2501"       
+    ],
+    "longitude" : [
+		    "77.4136",
+        "77.4137",
+		    "77.4138",
+        "77.4140",
+		    "77.4141",
+        "77.4226",
+		    "77.4226",
+        "77.4226",
+		    "77.4326",
+        "77.4326"
+    ],
+    "plot" : [
+		    "1",
+        "2",
+		    "3",
+        "4",
+		    "5",
+        "1",
+		    "2",
+        "3",
+		    "1",
+        "2"        
+    ],
+    "state" : [
+		    "Bhopal",
+        "Bhopal",
+        "Bhopal", 
+		    "Bhopal",
+        "Bhopal",
+        "Bhopal", 
+		    "Bhopal",
+        "Bhopal",
+        "Bhopal", 
+        "Bhopal"                       
+    ]
+}
