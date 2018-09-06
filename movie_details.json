@@ -5,7 +5,7 @@
     "moviePoster" : "https://planetamarvel.net/wp-content/uploads/2018/02/Black-Panther-minimalism-wallpaper-800x445.jpg",  
     "movieStory": "Centuries ago, five African tribes war over a meteorite containing vibranium. One warrior ingests a \"heart-shaped herb\" affected by the metal and gains superhuman abilities, becoming the first \"Black Panther\". He unites all but the Jabari Tribe to form the nation of Wakanda. The Wakandans use the vibranium to develop advanced technology and isolate themselves from the world by posing as a Third World country. In 1992, King T'Chaka visits his brother N'Jobu, who is working undercover in Oakland, California. T'Chaka accuses N'Jobu of assisting black-market arms dealer Ulysses Klaue with stealing vibranium from Wakanda. N'Jobu's partner reveals he is Zuri, another undercover Wakandan, and confirms T'Chaka's suspicions.",
     "movieSummary": "Wesley Snipes expressed interest in working on a Black Panther film in 1992, but the project did not come to fruition. In September 2005, Marvel Studios announced a Black Panther film as one of ten based on Marvel characters and distributed by Paramount Pictures. Mark Bailey was hired to write a script in January 2011.",
-    "ratings":{
+    "ratings": {
         "scorer": [
             {
                 "scorePhotos" : "https://www.dealsunny.com/m/Store/logo_s/HkSd6JW8.jpg",
@@ -37,19 +37,25 @@
                 "topSource" : 1,
                 "streamingSourcesPhotos": "https://cdn.vox-cdn.com/thumbor/6_GTFarYkwavDThWbBJn06wn-s8=/0x0:2400x1349/1220x813/filters:focal(1008x483:1392x867):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/54916477/netflixlogo.0.jpg",
                 "streamingSourcesLanguage" : "English",
-                "purchaseType" : ["Watch Now"],
-                "purchasePlan" : ["1 Year Free for Airtel Postpaid and Broadband Users ₹ 999 per year"]
-                 
+                "purchaseDetails" : [
+                    {
+                        "purchaseType" : "Watch Now",
+                        "purchasePlan" : "1 Year Free for Airtel Postpaid and Broadband Users ₹ 999 per year"
+                    }
+                ]                 
             },
             {
                 "sourceId" : 2,
                 "sourceName" : "Hotstar" ,
                 "topSource" : 0,
-                "streamingSourcesPhotos":             "https://i.gadgets360cdn.com/large/hotstar_logo_screenshot_1484022001871.jpg?output-quality=70&output-format=webp",
+                "streamingSourcesPhotos": "https://i.gadgets360cdn.com/large/hotstar_logo_screenshot_1484022001871.jpg?output-quality=70&output-format=webp",
                 "streamingSourcesLanguage" : "English",
-                "purchaseType" : ["First Month Free ₹ 50 per month"],
-                "purchasePlan" : ["1 Year Free for Airtel Postpaid and Broadband Users ₹ 999 per year"]
-                 
+                "purchaseDetails" : [
+                    {
+                        "purchaseType" : "Watch Now",
+                        "purchasePlan" : "1 Moth Free 999 per year"
+                    }                
+                ]     
             },
             {
                 "sourceId" : 3,
@@ -57,19 +63,41 @@
                 "topSource" : 1,
                 "streamingSourcesPhotos": "https://www.rapidtvnews.com/images/2017/09/hooq-logo-yellow_-_8_Sept_2017.png",
                 "streamingSourcesLanguage" : "English",
-                "purchaseType" : ["₹ 100","₹ 150", "Watch Now"],
-                "purchasePlan" : ["1 Year Free for Airtel Postpaid and Broadband Users ₹ 999 per year"]
-                 
+                "purchaseDetails" : [
+                    {
+                        "purchaseType" : "₹ 100",
+                        "purchasePlan" : "1 Year Free for Airtel Postpaid and Broadband Users ₹ 999 per year"
+                    },
+                    {
+                        "purchaseType" : "Watch Now",
+                        "purchasePlan" : "1 Year Free for Airtel Postpaid and Broadband Users ₹ 999 per year"
+                    },    
+                    {
+                        "purchaseType" : "₹ 150",
+                        "purchasePlan" : "1 Moth Free 999 per year"
+                    }                                                     
+                ]                                  
             },
             {
                 "sourceId" : 4,
                 "sourceName" : "Hooq",
                 "topSource" : 1,
-                "streamingSourcesPhotos":             "https://i.gadgets360cdn.com/large/hotstar_logo_screenshot_1484022001871.jpg?output-quality=70&output-format=webp",
+                "streamingSourcesPhotos": "https://i.gadgets360cdn.com/large/hotstar_logo_screenshot_1484022001871.jpg?output-quality=70&output-format=webp",
                 "streamingSourcesLanguage" : "English",
-                "purchaseType" : ["First Month Free ₹ 50 per month"],
-                "purchasePlan" : ["RENT SD","RENT HD","1 Year Free for Airtel Postpaid and Broadband Users ₹ 999 per year"]
-                 
+                "purchaseDetails" : [
+                    {
+                        "purchaseType" : "₹ 490",
+                        "purchasePlan" : "RENT SD"
+                    },
+                    {
+                        "purchaseType" : "Watch Now",
+                        "purchasePlan" : "RENT HD"
+                    },    
+                    {
+                        "purchaseType" : "₹ 690",
+                        "purchasePlan" : "1 Moth Free 999 per year"
+                    }                                                     
+                ]                                
             },                        
             {
                 "sourceId" : 1,
@@ -77,9 +105,20 @@
                 "topSource" : 0,
                 "streamingSourcesPhotos": "https://cdn.vox-cdn.com/thumbor/6_GTFarYkwavDThWbBJn06wn-s8=/0x0:2400x1349/1220x813/filters:focal(1008x483:1392x867):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/54916477/netflixlogo.0.jpg",
                 "streamingSourcesLanguage" : "Telugu",
-                "purchaseType" : ["₹ 100","₹ 150"],
-                "purchasePlan" : ["1 Year Free for Airtel Postpaid and Broadband Users ₹ 999 per year"]
-                 
+                "purchaseDetails" : [
+                    {
+                        "purchaseType" : "₹ 100",
+                        "purchasePlan" : "1 Year Free for Airtel Postpaid and Broadband Users ₹ 999 per year"
+                    },
+                    {
+                        "purchaseType" : "Watch Now",
+                        "purchasePlan" : "RENT HD"
+                    },    
+                    {
+                        "purchaseType" : "₹ 690",
+                        "purchasePlan" : "1 Moth Free 999 per year"
+                    }                                                     
+                ]                                  
             }            
         ],
         "disclaimer" : "Disclaimer: Komparify.com entertainment section aggregates content from legal streaming services such as Hotstar, Amazon Prime, Netflix etc and shows where to watch completely legal content on streaming services. We only link to legal streaming services which buy content from original copyright holders. Komparify.com entertainment does not sell or host any copyrighted content. We link to legal streaming services and help you discover the best legal streaming content online."                 
@@ -108,7 +147,8 @@
                 "playlanguage" : "English IMAX 3D",
                 "playPrice" : "Book Now"
             }            
-        ]
+        ],
+        "sourceNotFoundMessage" : ""
     },
     "similarMovies" : {
         "movies" : [
@@ -208,32 +248,32 @@
         "posters" : [
             {
                 "posterPhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png",
-                "backgroundPhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png"
+                "posterLargePhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png"
             },
             {
                 "posterPhoto" : "https://uziiw38pmyg1ai60732c4011-wpengine.netdna-ssl.com/wp-content/dropzone/2018/02/black-panther.jpg",
-                "backgroundPhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png"                
+                "posterLargePhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png"                
             },
             {
                 "posterPhoto" : "https://longreadsblog.files.wordpress.com/2018/02/black-panther.jpg?w=1680",
-                "backgroundPhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png"                
+                "posterLargePhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png"                
             },
             {
                 "posterPhoto" : "https://static2.srcdn.com/wp-content/uploads/2017/10/Black-Panther-Trailer-1.jpg?q=50&w=1000&h=500&fit=crop&dpr=1.5",
-                "backgroundPhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png"                
+                "posterLargePhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png"                
             },
             {
-                "posterPhoto" :             "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
-                "backgroundPhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png"                
+                "posterPhoto" :  "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+                "posterLargePhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png"                
             },
             {
-                "posterPhoto" :             "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
-                "backgroundPhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png"                
+                "posterPhoto" :  "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+                "posterLargePhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png"                
             }
         ]                                                            
     },
     "tags" : {
-        "cards  " : [
+        "cards" : [
             {
                 "tagName" :  "Hotstar Action Movies",
                 "tagLink" : ""
