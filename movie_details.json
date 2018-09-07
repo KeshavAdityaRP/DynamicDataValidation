@@ -122,16 +122,36 @@
             }            
         ],
         "disclaimer" : "Disclaimer: Komparify.com entertainment section aggregates content from legal streaming services such as Hotstar, Amazon Prime, Netflix etc and shows where to watch completely legal content on streaming services. We only link to legal streaming services which buy content from original copyright holders. Komparify.com entertainment does not sell or host any copyrighted content. We link to legal streaming services and help you discover the best legal streaming content online."                 
-    },
+    },    
     "bookTickets" : {
         "location": "Chennai",
         "description" : "Kaala (Alternate Title: Kaalakaandi) is available to stream on Amazon Prime, HotStar. It was released in 2018 and has a runtime of 166 minutes. A drama film directed by Pa Ranjith, starring Rajinikanth and Huma Qureshi in the lead roles.\n Watch Kaala full movie online in HD on Amazon Prime, HotStar.",
-        "certificate" : "U/A (India)",
-        "releaseDate" : "07",
-        "runTime" : "166 MINUTES",
-        "budget" : "140 Crores",
-        "languages" : "Tamil, English, Telugu",
-        "gener": "action, crime, drama",        
+        "quickFacts" : [
+            {
+                "factIcon" : "certificate",
+                "fact" : "U/A (India)"
+            },
+            {
+                "factIcon" : "releaseDate", 
+                "fact" : "07"
+            },
+            {
+                "factIcon" : "runTime", 
+                "fact" : "166 MINUTES"
+            },            
+            {
+                "factIcon" : "budget",
+                "fact" : "140 Crores"
+            },
+            {
+                "factIcon" : "languages",
+                "fact" : "Tamil, English, Telugu"
+            },
+            {
+                "factIcon" : "gener",
+                "fact" : "action, crime, drama"
+            }
+        ],   
         "watchNowSources" : [
             {
                 "watchNowId" : 1,
@@ -154,16 +174,29 @@
         "movies" : [
             {
                 "similarMoviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-2_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
-                "similarMovieName" : "Lakshmi"
+                "similarMovieName" : "Lakshmi",
+                "similarMovieLink" : ""
             },
             {
                 "similarMoviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
-                "similarMovieName" : "Avenger"
+                "similarMovieName" : "Avenger",
+                "similarMovieLink" : ""
             },
             {
                 "similarMoviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
-                "similarMovieName" : "Thor"
-            }                        
+                "similarMovieName" : "Thor",
+                "similarMovieLink" : ""
+            },
+            {
+                "similarMoviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+                "similarMovieName" : "Mr. Bean",
+                "similarMovieLink" : ""
+            },
+            {
+                "similarMoviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+                "similarMovieName" : "Spy Next Door",
+                "similarMovieLink" : ""
+            }                                     
         ]
     },
     "castAndCrew" : {
@@ -192,19 +225,58 @@
                 "awardImage" : "http://superselected.com/wp-content/uploads/2013/09/Danai-Gurira-Essence-02.jpg",
                 "awardName" : "Oscars",
                 "won" : "0",
-                "nominations" : "7"
+                "nominations" : "4",
+                "nominatedFor" : [
+                    {
+                        "nominationName" : "Best Music (Nominated)"
+                    },
+                    {
+                        "nominationName" : "Best Actor (Nominated)"
+                    },  
+                    {
+                        "nominationName" : "Best Actress (Nominated)"
+                    },
+                    {
+                        "nominationName" : "Best Comedy (Nominated)"
+                    }                                      
+                ]
             },
             {
                 "awardImage" : "",
                 "awardName" : "World Stunts",
-                "won" : "0",
-                "nominations" : "2"
+                "won" : "1",
+                "nominations" : "2",
+                "nominatedFor" : [
+                    {
+                        "nominationName" : "Best Theater (Won)"
+                    },
+                    {
+                        "nominationName" : "Best Movie (Nominated)"
+                    },  
+                    {
+                        "nominationName" : "Best Sound (Nominated)"
+                    }                                     
+                ]                
             },
             {
                 "awardImage" : "",
                 "awardName" : "Grammy Awards",
                 "won" : "4",
-                "nominations" : "4"
+                "nominations" : "4",
+                "nominatedFor" : [
+                    {
+                        "nominationName" : "Best Music (Won)"
+                    },
+                    {
+                        "nominationName" : "Best Actor (Won)"
+                    },  
+                    {
+                        "nominationName" : "Best Actress (Won)"
+                    },
+                    {
+                        "nominationName" : "Best Comedy (Won)"
+                    }                                      
+                ]                
             }                        
         ]
     },
@@ -212,37 +284,37 @@
         "tracks" : [
             {
                 "trackImage" :  "https://static2.srcdn.com/wp-content/uploads/2017/10/Black-Panther-Trailer-1.jpg?q=50&w=1000&h=500&fit=crop&dpr=1.5",
-                "trackLink" : "NF" 
+                "trackLink" : "https://www.youtube.com/watch?v=Sb2GgsUDRKI" 
             },
             {
                 "trackImage" :  "https://cdn.guidingtech.com/imager/media/assets/BP-2_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
-                "trackLink" : "NF" 
+                "trackLink" : "https://www.youtube.com/watch?v=qxdgTITioI8" 
             },
             {
                 "trackImage" :  "https://cdn.guidingtech.com/imager/media/assets/BP-8_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
-                "trackLink" : "NF" 
+                "trackLink" : "https://www.youtube.com/watch?v=aioQwJZUIN4" 
             },
             {
                 "trackImage" :  "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
-                "trackLink" : "NF" 
+                "trackLink" : "https://www.youtube.com/watch?v=tL4KiYeWu48" 
             }                                    
         ],  
         "videos" : [
             {
                 "videoImage" :  "https://static2.srcdn.com/wp-content/uploads/2017/10/Black-Panther-Trailer-1.jpg?q=50&w=1000&h=500&fit=crop&dpr=1.5",
-                "videoLink" : "NF" 
+                "videoLink" : "https://www.youtube.com/watch?v=Sb2GgsUDRKI" 
             },
             {
                 "videoImage" :  "https://cdn.guidingtech.com/imager/media/assets/BP-2_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
-                "videoLink" : "NF" 
+                "videoLink" : "https://www.youtube.com/watch?v=qxdgTITioI8" 
             },
             {
                 "videoImage" :  "https://cdn.guidingtech.com/imager/media/assets/BP-8_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
-                "videoLink" : "NF" 
+                "videoLink" : "https://www.youtube.com/watch?v=aioQwJZUIN4" 
             },
             {
                 "videoImage" :  "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
-                "videoLink" : "NF" 
+                "videoLink" : "https://www.youtube.com/watch?v=tL4KiYeWu48" 
             }                                    
         ],
         "posters" : [
