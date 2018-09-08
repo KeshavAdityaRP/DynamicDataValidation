@@ -277,7 +277,58 @@
                         "nominationName" : "Best Comedy (Won)"
                     }                                      
                 ]                
-            }                        
+            },
+            {
+                "awardImage" : "http://superselected.com/wp-content/uploads/2013/09/Danai-Gurira-Essence-02.jpg",
+                "awardName" : "Flint Stoner Awards",
+                "won" : "0",
+                "nominations" : "3",
+                "nominatedFor" : [
+                    {
+                        "nominationName" : "Best Music (Nominated)"
+                    },
+                    {
+                        "nominationName" : "Best Actor (Nominated)"
+                    },  
+                    {
+                        "nominationName" : "Best Actress (Nominated)"
+                    }                                      
+                ]
+            },
+            {
+                "awardImage" : "",
+                "awardName" : "Edward Louis Awards",
+                "won" : "1",
+                "nominations" : "1",
+                "nominatedFor" : [
+                    {
+                        "nominationName" : "Best Theater (Won)"
+                    }                                    
+                ]                
+            },
+            {
+                "awardImage" : "",
+                "awardName" : "Arrow Awards",
+                "won" : "4",
+                "nominations" : "5",
+                "nominatedFor" : [
+                    {
+                        "nominationName" : "Best Music (Won)"
+                    },
+                    {
+                        "nominationName" : "Best Actor (Won)"
+                    },  
+                    {
+                        "nominationName" : "Best Actress (Won)"
+                    },
+                    {
+                        "nominationName" : "Best Comedy (Won)"
+                    },
+                    {
+                        "nominationName" : "Best Theater (Nominated)"
+                    }                                                           
+                ]                
+            }                                     
         ]
     },
     "gallary" : {
