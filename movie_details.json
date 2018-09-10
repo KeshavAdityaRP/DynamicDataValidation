@@ -414,5 +414,52 @@
                 "tagLink" : ""
             }                                   
         ]
-    }
+    },
+    "locations" : {
+        "places" : [
+            {
+                "name" :  "Chennai"
+            },
+            {
+                "name" :  "Mumbai"
+            }, 
+            {
+                "name" :  "Bangalore"
+            },
+            {
+                "name" :  "New Delhi"
+            },
+            {
+                "name" :  "Dubai"
+            },
+            {
+                "name" :  "Assam"
+            }, 
+            {
+                "name" :  "Bihar"
+            },
+            {
+                "name" :  "United Kingdom"
+            },
+            {
+                "name" :  "Goa"
+            },
+            {
+                "name" :  "Bihar"
+            },
+            {
+                "name" :  "New York"
+            }, 
+            {
+                "name" :  "Paris"
+            },
+            {
+                "name" :  "Broadway" 
+            },               
+            {
+                "name" :  "Jordon" 
+            } 
+                                              
+        ]
+    }    
 }
