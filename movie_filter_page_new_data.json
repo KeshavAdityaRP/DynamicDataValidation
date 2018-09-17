@@ -1,0 +1,434 @@
+{
+    "title" : "Komparify",
+    "filterTop" : [
+        {
+            "name" : "Streaming Movies"
+        },
+        {
+            "name" : "TV Shows"            
+        },
+        {
+            "name" : "Movies In Theatres"            
+        }        
+    ],
+    "filterDropDown" : {
+        "requirement" : "Sort By",
+        "type" : "New Realseases",
+        "options" : [
+            {
+                "name" : "Komparify Score"
+            },
+            {
+                "name" : "IMDB Score"
+            },
+            {
+                "name" : "Recently Added"
+            },
+            {
+                "name" : "Rotten Tomato"
+            }                        
+        ]
+    },
+    "bannerImages" : [
+        {
+            "posterPhoto" : "http://www.kiwithebeauty.com/wp-content/uploads/2017/11/BLACK-PANTHER-COLLAGE-KIWI-THE-BEAUTY-MOVIE-MARVEL-800x350.png"
+        },
+        {
+            "posterPhoto" : "https://uziiw38pmyg1ai60732c4011-wpengine.netdna-ssl.com/wp-content/dropzone/2018/02/black-panther.jpg"                           
+        },
+        {
+            "posterPhoto" : "https://longreadsblog.files.wordpress.com/2018/02/black-panther.jpg?w=1680"                           
+        },
+        {
+            "posterPhoto" : "https://static2.srcdn.com/wp-content/uploads/2017/10/Black-Panther-Trailer-1.jpg?q=50&w=1000&h=500&fit=crop&dpr=1.5"                           
+        },
+        {
+            "posterPhoto" :  "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg"                          
+        },
+        {
+            "posterPhoto" :  "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg"                           
+        }
+    ],
+    "movies" : [
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-2_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Lakshmi",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "https://www.dealsunny.com/m/Store/logo_s/HkSd6JW8.jpg",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Avenger",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/1660/brand.gif?itok=6jXgR_rZ",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Thor",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                },
+                {
+                    "name" : "RottenTomatoe",
+                    "image" : "https://i2.wp.com/reflectorgsu.com/wp-content/uploads/2017/10/rotten_tomatoes_8290.jpg?zoom=1.3600000143051147&resize=300%2C300",
+                    "score" : "99%"
+                }                                 
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Mr. Bean",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Oscars Award",
+                    "image" : "http://www.ariseindialtd.com/bumperprize.png"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Spy Next Door",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Oscars Award",
+                    "image" : "http://www.ariseindialtd.com/bumperprize.png"
+                },                 
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-2_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Lakshmi",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Osthi",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Kaala",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                },
+                {
+                    "name" : "RottenTomatoe",
+                    "image" : "https://i2.wp.com/reflectorgsu.com/wp-content/uploads/2017/10/rotten_tomatoes_8290.jpg?zoom=1.3600000143051147&resize=300%2C300",
+                    "score" : "99%"
+                }                                 
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Enter the Dragon",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Oscars Award",
+                    "image" : "http://www.ariseindialtd.com/bumperprize.png"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-2_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Lakshmi",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Osthi",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Kaala",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                },
+                {
+                    "name" : "RottenTomatoe",
+                    "image" : "https://i2.wp.com/reflectorgsu.com/wp-content/uploads/2017/10/rotten_tomatoes_8290.jpg?zoom=1.3600000143051147&resize=300%2C300",
+                    "score" : "99%"
+                }                                 
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Enter the Dragon",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Oscars Award",
+                    "image" : "http://www.ariseindialtd.com/bumperprize.png"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-2_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Lakshmi",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Osthi",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Kaala",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                },
+                {
+                    "name" : "RottenTomatoe",
+                    "image" : "https://i2.wp.com/reflectorgsu.com/wp-content/uploads/2017/10/rotten_tomatoes_8290.jpg?zoom=1.3600000143051147&resize=300%2C300",
+                    "score" : "99%"
+                }                                 
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Enter the Dragon",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Oscars Award",
+                    "image" : "http://www.ariseindialtd.com/bumperprize.png"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-2_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Lakshmi",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Osthi",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Kaala",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                },
+                {
+                    "name" : "RottenTomatoe",
+                    "image" : "https://i2.wp.com/reflectorgsu.com/wp-content/uploads/2017/10/rotten_tomatoes_8290.jpg?zoom=1.3600000143051147&resize=300%2C300",
+                    "score" : "99%"
+                }                                 
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Enter the Dragon",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Oscars Award",
+                    "image" : "http://www.ariseindialtd.com/bumperprize.png"
+                }                
+            ]
+        },                        
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Sitcom",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Oscars Award",
+                    "image" : "http://www.ariseindialtd.com/bumperprize.png"
+                },                 
+                {
+                    "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                    "score" : "97%"
+                }                
+            ]
+        }                                             
+    ]        
+}
