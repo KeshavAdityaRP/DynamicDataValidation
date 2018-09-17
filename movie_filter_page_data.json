@@ -1,0 +1,78 @@
+    "movies" : [
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-2_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Lakshmi",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "score" : "97%"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Avenger",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "score" : "97%"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Thor",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Kscore",
+                    "score" : "97%"
+                },
+                {
+                    "name" : "RottenTomatoe",
+                    "score" : "99%"
+                }                                 
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-4_180118_140923_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Mr. Bean",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Oscars Award"
+                }                
+            ]
+        },
+        {
+            "moviePhoto" : "https://cdn.guidingtech.com/imager/media/assets/BP-7_180118_142130_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg",
+            "movieName" : "Spy Next Door",
+            "scores" : [
+                {
+                    "name" : "IMDB",
+                    "score" : "8.0"
+                },
+                {
+                    "name" : "Oscars Award"
+                },                 
+                {
+                    "name" : "Kscore",
+                    "score" : "97%"
+                }                
+            ]
+        }                                     
+    ]
