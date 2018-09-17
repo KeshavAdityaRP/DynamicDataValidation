@@ -56,10 +56,12 @@
             "scores" : [
                 {
                     "name" : "IMDB",
+                    "image" : "https://www.dealsunny.com/m/Store/logo_s/HkSd6JW8.jpg",
                     "score" : "8.0"
                 },
                 {
                     "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "97%"
                 }                
             ]
@@ -70,10 +72,12 @@
             "scores" : [
                 {
                     "name" : "IMDB",
+                    "image" : "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/1660/brand.gif?itok=6jXgR_rZ",
                     "score" : "8.0"
                 },
                 {
                     "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "97%"
                 }                
             ]
@@ -84,14 +88,17 @@
             "scores" : [
                 {
                     "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "8.0"
                 },
                 {
                     "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "97%"
                 },
                 {
                     "name" : "RottenTomatoe",
+                    "image" : "https://i2.wp.com/reflectorgsu.com/wp-content/uploads/2017/10/rotten_tomatoes_8290.jpg?zoom=1.3600000143051147&resize=300%2C300",
                     "score" : "99%"
                 }                                 
             ]
@@ -102,10 +109,12 @@
             "scores" : [
                 {
                     "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "8.0"
                 },
                 {
-                    "name" : "Oscars Award"
+                    "name" : "Oscars Award",
+                    "image" : "http://www.ariseindialtd.com/bumperprize.png"
                 }                
             ]
         },
@@ -115,13 +124,16 @@
             "scores" : [
                 {
                     "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "8.0"
                 },
                 {
-                    "name" : "Oscars Award"
+                    "name" : "Oscars Award",
+                    "image" : "http://www.ariseindialtd.com/bumperprize.png"
                 },                 
                 {
                     "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "97%"
                 }                
             ]
@@ -132,10 +144,12 @@
             "scores" : [
                 {
                     "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "8.0"
                 },
                 {
                     "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "97%"
                 }                
             ]
@@ -146,10 +160,12 @@
             "scores" : [
                 {
                     "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "8.0"
                 },
                 {
                     "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "97%"
                 }                
             ]
@@ -160,14 +176,17 @@
             "scores" : [
                 {
                     "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "8.0"
                 },
                 {
                     "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "97%"
                 },
                 {
                     "name" : "RottenTomatoe",
+                    "image" : "https://i2.wp.com/reflectorgsu.com/wp-content/uploads/2017/10/rotten_tomatoes_8290.jpg?zoom=1.3600000143051147&resize=300%2C300",
                     "score" : "99%"
                 }                                 
             ]
@@ -178,10 +197,12 @@
             "scores" : [
                 {
                     "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "8.0"
                 },
                 {
-                    "name" : "Oscars Award"
+                    "name" : "Oscars Award",
+                    "image" : "http://www.ariseindialtd.com/bumperprize.png"
                 }                
             ]
         },
@@ -191,13 +212,16 @@
             "scores" : [
                 {
                     "name" : "IMDB",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "8.0"
                 },
                 {
-                    "name" : "Oscars Award"
+                    "name" : "Oscars Award",
+                    "image" : "http://www.ariseindialtd.com/bumperprize.png"
                 },                 
                 {
                     "name" : "Kscore",
+                    "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
                     "score" : "97%"
                 }                
             ]
