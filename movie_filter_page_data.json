@@ -51,7 +51,7 @@
     ],
     "movies" : [
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Lakshmi",
             "scores" : [
                 {
@@ -67,7 +67,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Avenger",
             "scores" : [
                 {
@@ -83,7 +83,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Thor",
             "scores" : [
                 {
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Mr. Bean",
             "scores" : [
                 {
@@ -119,7 +119,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Spy Next Door",
             "scores" : [
                 {
@@ -139,7 +139,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Lakshmi",
             "scores" : [
                 {
@@ -155,7 +155,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Osthi",
             "scores" : [
                 {
@@ -171,7 +171,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Kaala",
             "scores" : [
                 {
@@ -192,7 +192,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Enter the Dragon",
             "scores" : [
                 {
@@ -207,7 +207,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Lakshmi",
             "scores" : [
                 {
@@ -223,7 +223,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Osthi",
             "scores" : [
                 {
@@ -239,7 +239,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Kaala",
             "scores" : [
                 {
@@ -260,7 +260,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Enter the Dragon",
             "scores" : [
                 {
@@ -275,7 +275,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Lakshmi",
             "scores" : [
                 {
@@ -291,7 +291,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Osthi",
             "scores" : [
                 {
@@ -307,7 +307,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Kaala",
             "scores" : [
                 {
@@ -328,7 +328,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Enter the Dragon",
             "scores" : [
                 {
@@ -343,7 +343,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Lakshmi",
             "scores" : [
                 {
@@ -359,7 +359,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Osthi",
             "scores" : [
                 {
@@ -375,7 +375,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Kaala",
             "scores" : [
                 {
@@ -396,7 +396,7 @@
             ]
         },
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Enter the Dragon",
             "scores" : [
                 {
@@ -411,7 +411,7 @@
             ]
         },                        
         {
-            "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BMGQyYWE0NzQtNTdlNC00MzFhLWFkYjQtMzZkMGI4MzQ2NWE0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+            "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
             "movieName" : "Sitcom",
             "scores" : [
                 {
