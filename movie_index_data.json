@@ -1,0 +1,409 @@
+{
+    "carousel": {
+        "bannerUrls": [
+            {
+                "bannerUrl" : "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/houssss/primebigban7.jpg"
+            },
+            {
+                "bannerUrl" : "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/houssss/primebigban1.jpg"
+            },
+            {
+                "bannerUrl" : "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/houssss/primebigban4.jpg"
+            },
+            {
+                "bannerUrl" : "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/houssss/primebigban8.jpg"
+            },            
+            {
+                "bannerUrl" : "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/houssss/primebigban3.jpg"
+            }                                    
+        ]
+    },
+    "browseStreamingSources" : {
+        "title" : "Browse by Streaming Sources",
+        "streamingSources" : [
+            {
+                "sourceId" : 1,
+                "type" : "Streaming Sources",
+                "sourceName" : "Netflix" ,
+                "streamingSourcesPhotos": "https://cdn.vox-cdn.com/thumbor/6_GTFarYkwavDThWbBJn06wn-s8=/0x0:2400x1349/1220x813/filters:focal(1008x483:1392x867):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/54916477/netflixlogo.0.jpg"                
+            },
+            {
+                "sourceId" : 2,
+                "type" : "Streaming Sources",
+                "sourceName" : "Hotstar" ,
+                "streamingSourcesPhotos": "https://i.gadgets360cdn.com/large/hotstar_logo_screenshot_1484022001871.jpg?output-quality=70&output-format=webp"    
+            },
+            {
+                "sourceId" : 3,
+                "type" : "Streaming Sources",
+                "sourceName" : "Itunes",
+                "streamingSourcesPhotos": "https://www.rapidtvnews.com/images/2017/09/hooq-logo-yellow_-_8_Sept_2017.png"                                  
+            },
+            {
+                "sourceId" : 4,
+                "type" : "Streaming Sources",
+                "sourceName" : "Hooq",
+                "streamingSourcesPhotos": "https://i.gadgets360cdn.com/large/hotstar_logo_screenshot_1484022001871.jpg?output-quality=70&output-format=webp"                                
+            },                        
+            {
+                "sourceId" : 5,
+                "type" : "Streaming Sources",
+                "sourceName" : "Prime",
+                "streamingSourcesPhotos": "https://cdn.vox-cdn.com/thumbor/6_GTFarYkwavDThWbBJn06wn-s8=/0x0:2400x1349/1220x813/filters:focal(1008x483:1392x867):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/54916477/netflixlogo.0.jpg"                                  
+            }            
+        ]
+    }, 
+    "overview" : [
+        {
+            "title" : "Discover Movies",
+            "description" : "Find the best Streaming Movies"
+        },
+        {
+            "title" : "Discover TV Shows",
+            "description" : "Find the best TV Shows"
+        },
+        {
+            "title" : "In Theaters",
+            "description" : "Find the best Movies In Theaters"
+        }        
+    ],
+    "browseByCategory" : [
+        {
+            "type" : "By Genre",
+            "name" : "Action"
+        },
+        {
+            "type" : "By Genre",
+            "name" : "Action"
+        },
+        {
+            "type" : "By Genre",
+            "name" : "Action"
+        },
+        {
+            "type" : "By Genre",
+            "name" : "Action"
+        },
+        {
+            "type" : "By Genre",
+            "name" : "Action"
+        },
+        {
+            "type" : "By Genre",
+            "name" : "Action"
+        },
+        {
+            "type" : "By Genre",
+            "name" : "Action"
+        },
+        {
+            "type" : "By Genre",
+            "name" : "Action"
+        }                                
+    ], 
+    "schowcase" : {
+        "category1" : {
+            "title" : "New Release",
+            "movies" : [
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ]                    
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ] 
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ]                    
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ] 
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ]                    
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ] 
+                }                                                   
+            ]
+        },
+        "category2" : {
+            "title" : "In Theatres",
+            "movies" : [
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ]                    
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ] 
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ]                    
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ] 
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ]                    
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ] 
+                }                                                   
+            ]
+        },
+        "category3" : {
+            "title" : "Fresh on Streaming",
+            "movies" : [
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ]                    
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ] 
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ]                    
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ] 
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ]                    
+                },
+                {
+                    "moviePhoto" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/d1c7fbea7de54b57873c6b507c4fa516624682d0",
+                    "movieName" : "Osthi",
+                    "scores" : [
+                        {
+                            "name" : "IMDB",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "8.0"
+                        },
+                        {
+                            "name" : "Kscore",
+                            "image" : "http://icons.iconarchive.com/icons/danleech/simple/256/imdb-icon.png",
+                            "score" : "97%"
+                        }                
+                    ] 
+                }                                                   
+            ]
+        }                  
+    }      
+}
