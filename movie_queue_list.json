@@ -1,0 +1,42 @@
+{
+    "login": true,
+    "error": false,
+        "movies":[
+        {
+            "name" : "Silvat",
+            "id" : "39096",
+            "url_name" : "silvat",
+            "url" : "/entertainment/movie/silvat",
+            "poster" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/2a593c982cd02ba8ed4398b82ad1ab7ba986d216",
+            "updated_at" : 1538809205
+        },
+
+        {
+            "name" : "Avengers: Infinity War",
+            "id" : "28890",
+            "url_name" : "avengers-infinity-war",
+            "url" : "/entertainment/movie/avengers-infinity-war",
+            "poster" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/7f889d76d136f9116b3d87695585a9541532cf47",
+            "updated_at" : 1538804282
+        },
+
+        {
+            "name" : "One Strange Rock",
+            "id" : "37881",
+            "url_name" : "one-strange-rock",
+            "url" : "/entertainment/movie/one-strange-rock",
+            "poster" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/0b93ed2656f8492c3c0de5ccab36a71e25f83ea9",
+            "updated_at" : 1537527696
+        },
+
+        {
+            "name" : "Puffin Rock",
+            "id" : "36687",
+            "url_name" : "puffin-rock",
+            "url" : "/entertainment/movie/puffin-rock",
+            "poster" : "https://s3.ap-south-1.amazonaws.com/movieassets.komparify.com/thumb/8b3cc53fe9301ed07341a7c2ef11f75a8e1544be",
+            "updated_at" : 1537527683
+        }
+    ]
+
+}
