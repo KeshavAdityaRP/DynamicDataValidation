@@ -1,0 +1,547 @@
+{
+	"topics": [{
+			"heading": "Sources",
+			"group": "clickableImages",
+			"key": "sourceslist",
+			"options": [{
+					"name": "HotStar",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/1.png",
+					"status": false,
+					"filter_id": "hotstar"
+				},
+				{
+					"name": "ErosNow",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/2.png",
+					"status": false,
+					"filter_id": "erosnow"
+				},
+				{
+					"name": "HOOQ",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/3.png",
+					"status": false,
+					"filter_id": "hooq"
+				},
+				{
+					"name": "Amazon Prime",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/4.png",
+					"status": false,
+					"filter_id": "amazon-prime"
+				},
+				{
+					"name": "NetFlix",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/5.png",
+					"status": false,
+					"filter_id": "netflix"
+				},
+				{
+					"name": "Jio Cinema",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/6.png",
+					"status": false,
+					"filter_id": "jio-cinema"
+				},
+				{
+					"name": "HungamaPlay",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/7.png",
+					"status": false,
+					"filter_id": "hungamaplay"
+				},
+				{
+					"name": "Voot",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/8.png",
+					"status": false,
+					"filter_id": "voot"
+				},
+				{
+					"name": "SonyLIV",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/9.png",
+					"status": false,
+					"filter_id": "sonyliv"
+				},
+				{
+					"name": "BigFlix",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/11.png",
+					"status": false,
+					"filter_id": "bigflix"
+				},
+				{
+					"name": "iTunes",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/12.png",
+					"status": false,
+					"filter_id": "itunes"
+				},
+				{
+					"name": "Google Play",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/13.png",
+					"status": false,
+					"filter_id": "google-play"
+				},
+				{
+					"name": "Spuul",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/15.png",
+					"status": false,
+					"filter_id": "spuul"
+				},
+				{
+					"name": "YuppTV",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/16.png",
+					"status": false,
+					"filter_id": "yupptv"
+				},
+				{
+					"name": "Viu",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/19.png",
+					"status": false,
+					"filter_id": "viu"
+				},
+				{
+					"name": "BoxTV",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/20.png",
+					"status": false,
+					"filter_id": "boxtv"
+				},
+				{
+					"name": "Viki",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/22.png",
+					"status": false,
+					"filter_id": "viki"
+				},
+				{
+					"name": "ALT Balaji",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/23.png",
+					"status": false,
+					"filter_id": "alt-balaji"
+				},
+				{
+					"name": "SUN Nxt",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/24.png",
+					"status": false,
+					"filter_id": "sun-nxt"
+				},
+				{
+					"name": "Airtel TV",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/26.png",
+					"status": false,
+					"filter_id": "airtel-tv"
+				},
+				{
+					"name": "Vodafone Play",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/27.png",
+					"status": false,
+					"filter_id": "vodafone-play"
+				},
+				{
+					"name": "Zee 5",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/30.png",
+					"status": false,
+					"filter_id": "zee-5"
+				},
+				{
+					"name": "HoiChoi",
+					"image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/33.png",
+					"status": false,
+					"filter_id": "hoichoi"
+				}
+			]
+		},
+		{
+			"heading": "Content Type",
+			"group": "checkBoxes",
+			"key": "contenttypelist",
+			"options": [{
+					"name": "Movies",
+					"filter_id": "movie",
+					"status": false
+				},
+				{
+					"name": "TV Shows",
+					"filter_id": "series",
+					"status": false
+				}
+			]
+		},
+		{
+			"heading": "Type",
+			"group": "checkBoxes",
+			"key": "movietypelist",
+			"options": [{
+					"name": "Award Winning",
+					"filter_id": "award",
+					"status": false
+				},
+				{
+					"name": "Critically Acclaimed",
+					"filter_id": "critic",
+					"status": false
+				},
+				{
+					"name": "Blockbusters",
+					"filter_id": "boxoffice",
+					"status": false
+				},
+				{
+					"name": "SuperStar Movies",
+					"filter_id": "starpower",
+					"status": false
+				}
+			]
+		},
+		{
+			"heading": "Genre",
+			"group": "clickableImages",
+			"key": "genreslist",
+			"options": [{
+					"name": "Action",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/action.png",
+					"filter_id": "action",
+					"status": false
+				},
+				{
+					"name": "Family",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/family.png",
+					"filter_id": "family",
+					"status": false
+				},
+				{
+					"name": "Animation",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/animation.png",
+					"filter_id": "animation",
+					"status": false
+				},
+				{
+					"name": "Documentary",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/documentary.png",
+					"filter_id": "documentary",
+					"status": false
+				},
+				{
+					"name": "War",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/war.png",
+					"filter_id": "war",
+					"status": false
+				},
+				{
+					"name": "Horror",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/horror.png",
+					"filter_id": "horror",
+					"status": false
+				},
+				{
+					"name": "Sci-Fi",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/sci-fi.png",
+					"filter_id": "sci-fi",
+					"status": false
+				},
+				{
+					"name": "Western",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/western.png",
+					"filter_id": "western",
+					"status": false
+				},
+				{
+					"name": "Romantic Comedy",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/romantic-comedy.png",
+					"filter_id": "romantic-comedy",
+					"status": false
+				},
+				{
+					"name": "Film-Noir",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/film-noir.png",
+					"filter_id": "film-noir",
+					"status": false
+				},
+				{
+					"name": "Mystery",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/mystery.png",
+					"filter_id": "mystery",
+					"status": false
+				},
+				{
+					"name": "Crime",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/crime.png",
+					"filter_id": "crime",
+					"status": false
+				},
+				{
+					"name": "Comedy",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/comedy.png",
+					"filter_id": "comedy",
+					"status": false
+				},
+				{
+					"name": "Romance",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/romance.png",
+					"filter_id": "romance",
+					"status": false
+				},
+				{
+					"name": "Thriller",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/thriller.png",
+					"filter_id": "thriller",
+					"status": false
+				},
+				{
+					"name": "Musical",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/musical.png",
+					"filter_id": "musical",
+					"status": false
+				},
+				{
+					"name": "Adventure",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/adventure.png",
+					"filter_id": "adventure",
+					"status": false
+				},
+				{
+					"name": "Fantasy",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/fantasy.png",
+					"filter_id": "fantasy",
+					"status": false
+				},
+				{
+					"name": "Biography",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/biography.png",
+					"filter_id": "biography",
+					"status": false
+				},
+				{
+					"name": "History",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/history.png",
+					"filter_id": "history",
+					"status": false
+				},
+				{
+					"name": "Drama",
+					"image": "https://komparify.sgp1.cdn.digitaloceanspaces.com/assets/genre/drama.png",
+					"filter_id": "drama",
+					"status": false
+				}
+			]
+		},
+		{
+			"heading": "Language",
+			"group": "checkBoxes",
+			"key": "languagelist",
+			"options": [{
+					"name": "Hindi",
+					"filter_id": "hindi",
+					"status": true
+				},
+				{
+					"name": "English",
+					"filter_id": "english",
+					"status": true
+				},
+				{
+					"name": "Tamil",
+					"filter_id": "tamil",
+					"status": true
+				},
+				{
+					"name": "Marathi",
+					"filter_id": "marathi",
+					"status": false
+				},
+				{
+					"name": "Punjabi",
+					"filter_id": "punjabi",
+					"status": false
+				},
+				{
+					"name": "Telugu",
+					"filter_id": "telugu",
+					"status": false
+				},
+				{
+					"name": "Bengali",
+					"filter_id": "bengali",
+					"status": false
+				},
+				{
+					"name": "Malayalam",
+					"filter_id": "malayalam",
+					"status": false
+				},
+				{
+					"name": "Asian Foreign Languages",
+					"filter_id": "asian",
+					"status": false
+				},
+				{
+					"name": "European Foreign Languages",
+					"filter_id": "european",
+					"status": false
+				},
+				{
+					"name": "Indian Regional Languages",
+					"filter_id": "regional",
+					"status": false
+				}
+			]
+		},
+		{
+			"heading": "Streaming Types",
+			"group": "checkBoxes",
+			"key": "streamingtypelist",
+			"options": [{
+					"name": "Free",
+					"filter_id": "free",
+					"status": false
+				},
+				{
+					"name": "Subscription",
+					"filter_id": "subscription",
+					"status": false
+				},
+				{
+					"name": "Rental",
+					"filter_id": "rental",
+					"status": false
+				},
+				{
+					"name": "Purchase",
+					"filter_id": "purchase",
+					"status": false
+				}
+			]
+		},
+		{
+			"heading": "Year",
+			"group": "slider",
+			"key_1": "minyear",
+			"key_2": "maxyear",
+			"features": {
+				"min": 1950.0,
+				"max": 2018,
+				"rangeLower": 1950.0,
+				"rangeUpper": 2018
+
+			}
+		},
+		{
+			"heading": "IMDB Rating",
+			"key_1": "minimdb",
+			"key_2": "maximdb",
+			"group": "slider",
+			"features": {
+				"min": 0.0,
+				"max": 10.0,
+				"rangeLower": 0.0,
+				"rangeUpper": 10.0
+			}
+		},
+		{
+			"heading": "Rotten Tomatoes",
+			"key_1": "minrt",
+			"key_2": "maxrt",
+			"group": "slider",
+			"features": {
+				"min": 0.0,
+				"max": 100.0,
+				"rangeLower": 0.0,
+				"rangeUpper": 100.0
+			}
+		},
+		{
+			"heading": "Device Type",
+			"key": "devicetypeslist",
+			"group": "checkBoxes",
+			"options": [{
+					"name": "Desktop Web",
+					"filter_id": "desktop",
+					"status": false
+				},
+				{
+					"name": "Mobile Web",
+					"filter_id": "mobileweb",
+					"status": false
+				},
+				{
+					"name": "Android App",
+					"filter_id": "android",
+					"status": false
+				},
+				{
+					"name": "iOS App",
+					"filter_id": "ios",
+					"status": false
+				},
+				{
+					"name": "Windows App",
+					"filter_id": "windowsapp",
+					"status": false
+				},
+				{
+					"name": "Chromecast",
+					"filter_id": "chromecast",
+					"status": false
+				},
+				{
+					"name": "Apple TV",
+					"filter_id": "appletv",
+					"status": false
+				},
+				{
+					"name": "Amazon FireTV",
+					"filter_id": "amazonfire",
+					"status": false
+				},
+				{
+					"name": "Samsung TV",
+					"filter_id": "samsung",
+					"status": false
+				},
+				{
+					"name": "Apple Airplay",
+					"filter_id": "airplay",
+					"status": false
+				},
+				{
+					"name": "Android TV",
+					"filter_id": "androidtv",
+					"status": false
+				},
+				{
+					"name": "XBox",
+					"filter_id": "xboxone",
+					"status": false
+				},
+				{
+					"name": "Playstation",
+					"filter_id": "playstation",
+					"status": false
+				}
+			]
+		}
+
+	],
+	"sort": {
+		"heading": "Sort By",
+		"selected": {
+			"name": "New Releases",
+			"filter_id": "newrelease"
+		},
+		"group": "sort",
+		"key": "sortorder",
+		"options": [{
+				"name": "New Releases",
+				"filter_id": "newrelease"
+			},
+			{
+				"name": "Recently Added",
+				"filter_id": "recentlyadded"
+			},
+			{
+				"name": "Komparify Score",
+				"filter_id": "kscore"
+			},
+			{
+				"name": "IMDB Score",
+				"value": "imdbscore"
+			},
+			{
+				"name": "Rotten Tomato",
+				"filter_id": "rtscore"
+			}
+		]
+	}
+}
