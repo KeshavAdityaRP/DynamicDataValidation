@@ -536,7 +536,7 @@
 			},
 			{
 				"name": "IMDB Score",
-				"value": "imdbscore"
+				"filter_id": "imdbscore"
 			},
 			{
 				"name": "Rotten Tomato",
