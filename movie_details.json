@@ -29,6 +29,106 @@
             }                         
         ]
     },
+    "movieReview" : {
+        "stats" : [
+            {
+                "name" : "Positive Rating",
+                "rating" : "82%",
+                "image" : ""  
+            },
+            {
+                "name" : "Average Rating",
+                "rating" : "3.0/5",
+                "image" : ""  
+            },
+            {
+                "name" : "In Last 1 year",
+                "rating" : "#414",
+                "image" : ""  
+            },            
+            {
+                "name" : "Positive Review",
+                "rating" : "8",
+                "image" : ""  
+            },
+            {
+                "name" : "Negative Reviews",
+                "rating" : "5",
+                "image" : ""  
+            },                       
+            {
+                "name" : "In Last 3 year",
+                "rating" : "#1180",
+                "image" : ""  
+            },
+            {
+                "name" : "In Last 5 year",
+                "rating" : "#1733",
+                "image" : ""  
+            }                        
+        ],
+        "sammaWords" : {
+            "image" :  "",
+            "words" : [
+                {
+                    "name" : "Colorful"
+                },
+                {
+                    "name" : "Entertaining"
+                },
+                {
+                    "name" : "Enjoyable"
+                },
+                {
+                    "name" : "Energetic"
+                }                        
+            ]
+        },
+        "reviews": [
+            {
+                "summary" : "Petta succeeds where Lingaa failed - it sticks to the formula, but it also makes it feel fresh",
+                "sourceName" : "Times of India",
+                "sourceImage" :  "",
+                "rating" : "3/5",
+                "reviewLink" : "https://timesofindia.indiatimes.com/entertainment/tamil/movie-reviews/petta/movie-review/67464901.cms"
+            },
+            {
+                "summary" : "It's Rajinikanth's swag and Subbaraj's writing and direction that makes this film an entertaining watch.",
+                "sourceName" : "Times Now News",
+                "sourceImage" :  "",
+                "rating" : "2/5",
+                "reviewLink" : "https://www.timesnownews.com/entertainment/reviews/movies/article/petta-movie-review-rajinikanths-swag-and-karthik-subbarajs-direction-make-this-an-entertaining-drama-south-news/344970"
+            },
+            {
+                "summary" : "Petta succeeds where Lingaa failed - it sticks to the formula, but it also makes it feel fresh",
+                "sourceName" : "Times of India",
+                "sourceImage" :  "",
+                "rating" : "2.5/5",
+                "reviewLink" : "https://timesofindia.indiatimes.com/entertainment/tamil/movie-reviews/petta/movie-review/67464901.cms"
+            },
+            {
+                "summary" : "It's Rajinikanth's swag and Subbaraj's writing and direction that makes this film an entertaining watch.",
+                "sourceName" : "Times Now News",
+                "sourceImage" :  "",
+                "rating" : "5/5",
+                "reviewLink" : "https://www.timesnownews.com/entertainment/reviews/movies/article/petta-movie-review-rajinikanths-swag-and-karthik-subbarajs-direction-make-this-an-entertaining-drama-south-news/344970"
+            },
+            {
+                "summary" : "Petta succeeds where Lingaa failed - it sticks to the formula, but it also makes it feel fresh",
+                "sourceName" : "Times of India",
+                "sourceImage" :  "",
+                "rating" : "",
+                "reviewLink" : "https://timesofindia.indiatimes.com/entertainment/tamil/movie-reviews/petta/movie-review/67464901.cms"
+            },
+            {
+                "summary" : "It's Rajinikanth's swag and Subbaraj's writing and direction that makes this film an entertaining watch.",
+                "sourceName" : "Times Now News",
+                "sourceImage" :  "",
+                "rating" : "0/5",
+                "reviewLink" : "https://www.timesnownews.com/entertainment/reviews/movies/article/petta-movie-review-rajinikanths-swag-and-karthik-subbarajs-direction-make-this-an-entertaining-drama-south-news/344970"
+            }            
+        ]
+    },
     "watchNow" : {
         "streamingSources" : [
             {
