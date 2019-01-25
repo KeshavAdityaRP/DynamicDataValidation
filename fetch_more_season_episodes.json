@@ -1,0 +1,52 @@
+{
+    "episodes" : [
+        {
+            "label" : "Beyond The Wall",
+            "summary" : "In the sixth episode, Jon and the Brotherhood hunt the dead. Arya confronts Sansa. Tyrion thinks about the future. Watch full episodes of season 7 of Game Of Thrones, streaming on Hotstar.",
+            "link" : "http://www.hotstar.com/tv/game-of-thrones/8184/beyond-the-wall/1770004348?utm_source=komparify&utm_campaign=site&utm_medium=detailpage",
+            "streamingSources" : [
+                {
+                    "name" : "HotStar",
+                    "link" : "http://www.hotstar.com/tv/game-of-thrones/8184/beyond-the-wall/1770004348?utm_source=komparify&utm_campaign=site&utm_medium=detailpage",
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/1.png"
+                }
+            ]
+        },
+        {
+            "label" : "The Dragon And The Wolf",
+            "summary" : "In the season finale, Tyrion tries to save Westeros from itself. Sansa questions loyalties. Watch this episode of Game of Thrones Season 7, streaming on Hotstar.",
+            "link" : "http://www.hotstar.com/tv/game-of-thrones/8184/the-dragon-and-the-wolf/1770004353?utm_source=komparify&utm_campaign=site&utm_medium=detailpage",
+            "streamingSources" : [
+                {
+                    "name" : "HotStar",
+                    "link" : "http://www.hotstar.com/tv/game-of-thrones/8184/the-dragon-and-the-wolf/1770004353?utm_source=komparify&utm_campaign=site&utm_medium=detailpage",
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/1.png"
+                }
+            ]
+        },
+        {
+            "label" : "The Spoils Of War",
+            "summary" : "In the fourth episode, the Lannisters pay their debts. Daenerys weighs her options. Arya comes home. Watch full episodes of season 7 of Game Of Thrones, streaming on Hotstar.",
+            "link" : "http://www.hotstar.com/tv/game-of-thrones/8184/the-spoils-of-war/1770016098?utm_source=komparify&utm_campaign=site&utm_medium=detailpage",
+            "streamingSources" : [
+                {
+                    "name" : "HotStar",
+                    "link" : "http://www.hotstar.com/tv/game-of-thrones/8184/the-spoils-of-war/1770016098?utm_source=komparify&utm_campaign=site&utm_medium=detailpage",
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/1.png"
+                }
+            ]
+        },
+        {
+            "label" : "The Queen’s Justice",
+            "summary" : "In the third episode, Daenerys holds court. Tyrion backchannels. Cersei returns a gift. Jaime learns from his mistakes. Watch full episodes of season 7 of Game Of Thrones, streaming on Hotstar.",
+            "link" : "http://www.hotstar.com/tv/game-of-thrones/8184/the-queens-justice/1770016026?utm_source=komparify&utm_campaign=site&utm_medium=detailpage",
+            "streamingSources" : [
+                {
+                    "name" : "HotStar",
+                    "link" : "http://www.hotstar.com/tv/game-of-thrones/8184/the-queens-justice/1770016026?utm_source=komparify&utm_campaign=site&utm_medium=detailpage",
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/assets.komparify.com/streaming-sources/1.png"
+                }
+            ]
+        }
+    ]
+}
